@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kcbishal2001
-- 👀 I’m interested in growing web technology. 
-- 🌱 I’m currently learning PHP/Laravel
+- 👀 I’m interested in growing **Web technology**. 
+- 🌱 I’m currently working on **PHP/Laravel**
+- 🌱 I’m currently learning on **Nodejs** and system programming using **Rust**
 - 💞️ I’m looking to collaborate on repo related to PHP, Laravel, Javascript
 - 📫 How to reach me @kcbishal2001 on linkedin
 
