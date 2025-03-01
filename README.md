@@ -1,50 +1,58 @@
-<h2 align="left">Hi 👋! My name is Bishal</h2>
-I'm a Backend Developer specializing in Node.js with hands-on experience in designing scalable APIs, optimizing databases, and managing CI/CD pipelines. I’ve successfully built high-performance systems at A5 IT and Cashkr India, and I'm impressed by [Company Name]'s innovative projects. I’d love to connect and explore opportunities to contribute to your team.
+# Hi there, I'm Bishal 👋
 
-###
+Welcome to my GitHub profile! I’m a passionate developer, lifelong learner, and open source enthusiast dedicated to crafting innovative solutions and building quality software.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## About Me
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/71820100?v=4"  />
+- 🔭 I’m currently working on exciting projects that blend creativity and technology.
+- 🌱 I’m constantly exploring new tools and frameworks to enhance my skills.
+- 💬 Ask me about web development, mobile apps, or anything tech-related!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bishal) | [Twitter](https://twitter.com/bishal)
+- ⚡ Fun fact: I believe that every line of code is a step toward a brighter future.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Tools & Technologies
 
-###
+Below are some of the tools and technologies I work with:
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+| Languages & Frameworks | Tools & Platforms         |
+| ---------------------- | ------------------------- |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)         | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  |
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)              | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)     |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)         | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)              |                           |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)                |                           |
 
-###
+---
 
-<br clear="both">
+## Projects & Contributions
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Here are some of the projects I've been working on:
 
-###
+- [**Project One**](https://github.com/bishal/project-one) - A brief description of what this project does.
+- [**Project Two**](https://github.com/bishal/project-two) - An innovative project tackling real-world problems.
+- [**Project Three**](https://github.com/bishal/project-three) - A fun side project exploring new technologies.
+
+Feel free to explore my repositories and contribute!
+
+---
+
+## GitHub Stats
+
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal&show_icons=true&theme=radical)
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/bishal)
+- [Twitter](https://twitter.com/bishal)
+- [Personal Website](https://bishal.dev)
+
+---
+
+Thanks for stopping by! Let's build something amazing together.
