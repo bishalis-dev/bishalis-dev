@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bishal</h2>
-I'm a Backend Developer specializing in Node.js with hands-on experience in designing scalable APIs, optimizing databases, and managing CI/CD pipelines. I’ve successfully built high-performance systems at A5 IT and Cashkr India, and I'm impressed by [Company Name]'s innovative projects. I’d love to connect and explore opportunities to contribute to your team.
+I'm a Backend Developer specializing in Node.js with hands-on experience in designing scalable APIs, optimizing databases, and managing CI/CD pipelines. I’ve successfully built high-performance systems at A5 IT and Cashkr India. I’d love to connect and explore opportunities to contribute to your team.
 
 ###
 
