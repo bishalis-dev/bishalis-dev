@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Bishal KC
 
-### 🚀 Senior Full Stack Developer | 🧠 Backend & System Design Nerd | 🤝 Open to SaaS Collaborations
+### Senior Full Stack Developer | Backend & System Design Nerd | Open to SaaS Collaborations
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bishalis.dev-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishalis.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-bishalis--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bishalis-dev)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 ```typescript
 const bishal = {
@@ -33,7 +33,7 @@ const bishal = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Languages & Frameworks**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -70,7 +70,7 @@ const bishal = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bishalis-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -87,7 +87,7 @@ const bishal = {
 
 ---
 
-## 🚀 Notable Projects & Achievements
+## Notable Projects & Achievements
 
 <table>
   <tr>
@@ -118,7 +118,7 @@ const bishal = {
 
 ---
 
-## 💡 System Design Expertise
+## System Design Expertise
 
 ```mermaid
 graph LR
@@ -144,7 +144,7 @@ graph LR
 
 ---
 
-## 🤝 Open for Collaboration
+## Open for Collaboration
 
 I'm actively looking to collaborate on:
 
@@ -157,7 +157,7 @@ I'm actively looking to collaborate on:
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 <div align="center">
 
@@ -171,10 +171,10 @@ I'm actively looking to collaborate on:
 
 <div align="center">
   
-### 💭 _"Ship fast. Scale safely."_ 🚢
+###  _"Ship fast. Scale safely."_ 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bishalis-dev&color=36BCF7&style=for-the-badge)
 
-**⭐ From [bishalis-dev](https://github.com/bishalis-dev) - Building the future, one commit at a time**
+** From [bishalis-dev](https://github.com/bishalis-dev) - Building the future, one commit at a time**
 
 </div>
