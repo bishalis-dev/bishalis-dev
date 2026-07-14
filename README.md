@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bishalis--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishalis-dev)
 [![Email](https://img.shields.io/badge/Email-kcbishal2001@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kcbishal2001@gmail.com)
 
+[![committers.top badge](https://user-badge.committers.top/nepal/bishalis-dev.svg)](https://user-badge.committers.top/nepal/bishalis-dev)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Designing+SaaS+Architectures;Optimizing+Performance+%26+Infrastructure;Ship+Fast.+Scale+Safely.+%F0%9F%9A%A2" alt="Typing SVG" />
 
 </div>
